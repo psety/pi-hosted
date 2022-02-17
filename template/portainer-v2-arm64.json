@@ -70,7 +70,7 @@
 			"categories": [
 				"Music"
 			],
-			"description": "Airsonic Advanced is a free, web-based media streamer, providing ubiqutious access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.",
+			"description": "Airsonic Advanced is a free, web-based media streamer, providing ubiqutious access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.Default user name and password is: admin",
 			"env": [
 				{
 					"default": "1000",
@@ -3164,7 +3164,7 @@
 				"Other",
 				"Web"
 			],
-			"description": "Where are your photos and documents? With Nextcloud you pick a server of your choice, at home, in a data center or at a provider. And that is where your files will be. Nextcloud runs on that server, protecting your data and giving you access from your desktop or mobile devices.",
+			"description": "Where are your photos and documents? With Nextcloud you pick a server of your choice, at home, in a data center or at a provider. And that is where your files will be. Nextcloud runs on that server, protecting your data and giving you access from your desktop or mobile devices. MySQL/MariaDB username: nextcloud and database and hosts are nextclouddb,
 			"env": [
 				{
 					"default": "1000",
